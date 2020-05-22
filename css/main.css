@@ -1,0 +1,21 @@
+body{
+	background-color: #f2f3f4;
+
+}
+.top{
+	height: 200px;
+	background-image: url(https://s1.1zoom.ru/big0/235/Poppies_Summer_Grasslands_Trees_562184_1270x1024.jpg);
+}
+section{
+	margin: 40px;
+}
+a.ssil{
+	background-color: orange;
+	padding: 20px 100px;
+	color: white;
+}
+a.asil2{
+background-color: orange;
+	padding: 20px 100px;
+	color: white;	
+}
